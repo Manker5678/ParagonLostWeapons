@@ -8,6 +8,7 @@ namespace ParagonLostWeapons
         public const string RepoOwner = "Manker5678";
         public const string RepoName = "ParagonLostWeapons";
         public const string Author = "DeeEks";
+        public const string DllName = "ParagonLostWeapons.dll";
     }
 
 }
