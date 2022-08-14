@@ -1,4 +1,4 @@
-namespace ParagonLostWeapons { }
+namespace ParagonLostWeapons;
 
 public static class ModHelperData
 {
