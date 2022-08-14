@@ -1,5 +1,5 @@
-namespace ParagonLostWeapons
-{
+namespace ParagonLostWeapons;
+
     public static class ModHelperData
     {
         public const string Version = "1.0.0";
@@ -11,5 +11,5 @@ namespace ParagonLostWeapons
         public const string RepoName = "ParagonLostWeapons"; // TODO add your repo name here, also in the download url in README.md
         public const string Author = "DeeEks";
     }
-}
+
 
