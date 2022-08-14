@@ -1,4 +1,4 @@
-<a href="https://github.com/Manker5678/ParagonLostWeapons/raw/main/ParagonLostWeapons.dll">
+<a href="https://github.com/Manker5678/ParagonLostWeapons/releases/download/latest/ParagonLostWeapons.dll">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
